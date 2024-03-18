@@ -1,4 +1,4 @@
-# Chocolate Sales Dashboard in Excel
+# Sales Dashboard in Excel
 This project focuses on cleaning data and utilizing Pivot Tables to create a sales dashboard for a chocolate product distributor in Microsoft Excel.
 
 ## Cleaning
