@@ -16,14 +16,15 @@ This project focuses on cleaning data and utilizing Pivot Tables to create a sal
 - Sheet 4: The final dashboard.
 
 ## Dashboard Components
-- Comparison of total number of sales per product.
-- Value of total sales.
-- Total profit earned through sales.
-- Top products by country.
+- Total sales by country.
+- Top products by sales.
+- Total sales in USD.
+- Total profit in USD.
+- Profit earned by sales person.
 
 ## Screenshot
-<img src="https://github.com/MJHendricks/ExcelSalesDashboard/assets/65013192/11f70585-cd80-441f-8f15-a339b375fd4f" width = 500px alt="Dashboard">
-<!-- ![Untitled](https://github.com/MJHendricks/ExcelSalesDashboard/assets/65013192/11f70585-cd80-441f-8f15-a339b375fd4f) -->
+The dashboard has also been exported as a pdf file, "dashboard.pdf".
+![Untitled](https://github.com/MJHendricks/ExcelSalesDashboard/assets/65013192/ddcd33e5-be7a-4509-8d27-2bd7efb9d483)
 
 
 ## Dataset
